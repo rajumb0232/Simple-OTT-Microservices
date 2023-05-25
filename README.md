@@ -6,4 +6,5 @@ Eureka used for load-balancing.
 Funtionality:
 - An API built to add movies,
 - An built to add users,
-- Once the user and movies are present, the user will be able to select a perticular movie and place an order for it to buy.
+- Once the user and movies are present, the user will be able to select a perticular movie and place an order for it to buy,
+- To facilitate that an API is present to add Orders to database.
