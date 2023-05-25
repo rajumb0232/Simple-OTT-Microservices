@@ -1,5 +1,5 @@
 # Simple-OTT-Microservices
-microservice application with Order-service, Movie-service and user-service || Built using spring boot, Feign and Eureka
+Microservice Application with Order-service, Movie-service and user-service || Built using spring boot, Feign and Eureka
 - Feign used to interact between the two remote rest services,
 - Eureka used for load-balancing.
 
